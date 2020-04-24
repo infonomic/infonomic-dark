@@ -1,0 +1,21 @@
+{
+    "name": "infonomic-dark",
+    "displayName": "Infonomic Dark",
+    "description": "Dark theme by Infonomic",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Infonomic Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Infonomic Dark-color-theme.json"
+            }
+        ]
+    }
+}
