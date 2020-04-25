@@ -2,7 +2,7 @@
 	"name": "Infonomic Dark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#252525",
+		"editor.background": "#202020",
 		"editorCursor.foreground": "#528bff",
 		"editor.foreground": "#ced6de",
 		"editorWhitespace.foreground": "#4b525b",
