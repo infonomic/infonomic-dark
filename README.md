@@ -2,7 +2,7 @@
 A Visual Studio Code Color Theme
 ## Installation
 
-Copy this enture repo as a folder (infonomic-dark-1.0.0) into the VS Code extension directory located at:
+Clone or copy this entire repo as a folder (infonomic-dark-1.0.0) into the VS Code extension directory located at:
 
     on Windows %USERPROFILE%\.vscode\extensions
 
