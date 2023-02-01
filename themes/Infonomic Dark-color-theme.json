@@ -2,13 +2,13 @@
 	"name": "Infonomic Dark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#202020",
+		"editor.background": "#19191A",
 		"editorCursor.foreground": "#528bff",
 		"editor.foreground": "#ced6de",
 		"editorWhitespace.foreground": "#4b525b",
 		"editor.lineHighlightBackground": "#2c323c",
-		"sideBar.background": "#38393a",
-		"sideBarSectionHeader.background": "#272822",
+		"sideBar.background": "#1E1E1F",
+		"sideBarSectionHeader.background": "#272727",
 	},
 	"tokenColors": [
 		{
